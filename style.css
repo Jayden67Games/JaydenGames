@@ -61,7 +61,7 @@ h1, h2 {
   margin: 10px;
   padding: 15px 20px; /* Enlarge the padding */
   background-color: rgb(255, 255, 255); /* White button color */
-  color: black; /* Text color black for the buttons in the site */
+  background-color: black; /* Text color black for the buttons  */
   text-align: center;
   text-decoration: none;
   border: none;
@@ -103,7 +103,7 @@ h1, h2 {
   top: -10px; /* Adjust as needed */
   left: -10px; /* Adjust as needed */
   background-color: red;
-  color: black; /* Black text color? */
+  color: black; /* Idk */
   padding: 5px 10px;
   font-size: 12px;
   text-align: center;
